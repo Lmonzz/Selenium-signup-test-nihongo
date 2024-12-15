@@ -30,11 +30,11 @@ This test script is set up in a virtual environment. Ensure that you activate it
 
 Tasks | Contributors
 --- | ---
-1. Nguyễn Hoàng Ngọc Liên | Dùng selenium IDE để record test và xuất thành test script
-2. Phương Hiền | Viết Testcase
-3. Nguyễn Đình Minh Thành | Viết lại testscript cho phù hợp với Website cần test
-4. Trần Nguyên Ngọc | Xử lí vụ encoding và đọc dữ liệu
-5. Đinh Văn Lộc | Xử lí phần test kết quả
+Nguyễn Hoàng Ngọc Liên  |  Dùng selenium IDE để record test và xuất thành test script
+Phương Hiền  |  Viết Testcase
+Nguyễn Đình Minh Thành  |  Viết lại testscript cho phù hợp với Website cần test
+Trần Nguyên Ngọc  |  Xử lí vụ encoding và đọc dữ liệu
+Đinh Văn Lộc  |  Xử lí phần test kết quả
 
 ## License
 
