@@ -1,6 +1,6 @@
 # test-nihongo-mastery-signup
 
-![Uploading nihongo.gif…]()
+![nihongo](https://github.com/user-attachments/assets/1046b8d4-e05d-4c62-a5b4-5222164b87ba)
 
 ## Description
 This repository contains an automated Selenium test script for verifying the sign-up functionality of the website Nihongo Mastery. The script is written in Python and designed to ensure that the sign-up process works as expected under different scenarios.
@@ -26,12 +26,15 @@ This test script is set up in a virtual environment. Ensure that you activate it
 \.venv\Scripts activate
 ```
 
-## Contributing
+## Contribution
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Tasks | Contributors
+--- | ---
+1. Nguyễn Hoàng Ngọc Liên | Dùng selenium IDE để record test và xuất thành test script
+2. Phương Hiền | Viết Testcase
+3. Nguyễn Đình Minh Thành | Viết lại testscript cho phù hợp với Website cần test
+4. Trần Nguyên Ngọc | Xử lí vụ encoding và đọc dữ liệu
+5. Đinh Văn Lộc | Xử lí phần test kết quả
 
 ## License
 
