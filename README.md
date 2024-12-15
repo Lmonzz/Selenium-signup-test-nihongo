@@ -28,7 +28,7 @@ This test script is set up in a virtual environment. Ensure that you activate it
 
 ## Contribution
 
-Tasks | Contributors
+Contributors | Tasks
 --- | ---
 Nguyễn Hoàng Ngọc Liên  |  Dùng selenium IDE để record test và xuất thành test script
 Phương Hiền  |  Viết Testcase
